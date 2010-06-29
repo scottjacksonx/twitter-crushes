@@ -6,7 +6,7 @@ Tumblr has a thing called "Crushes" that shows you whose posts you've liked the 
 
 Usage:
 
-`python twitter-crushes.py [username (xor) pages]`
+`python twitter-crushes.py username [pages]`
 
 Arguments:
 
